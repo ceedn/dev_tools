@@ -1,2 +1,2 @@
 # dev_tools
-Development tools
+Development tools for the dev environment.
